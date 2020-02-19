@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y2auzthBJTZTrIhqSsVtEFpYdk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,22 +68,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="275" key="GridCell.Tab.0.bottom" timestamp="1582145234021">
+    <state width="1897" height="275" key="GridCell.Tab.0.bottom" timestamp="1582145331552">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="275" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1582145234021" />
-    <state width="1897" height="275" key="GridCell.Tab.0.center" timestamp="1582145234021">
+    <state width="1897" height="275" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1582145331552" />
+    <state width="1897" height="275" key="GridCell.Tab.0.center" timestamp="1582145331552">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="275" key="GridCell.Tab.0.center/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1582145234021" />
-    <state width="1897" height="275" key="GridCell.Tab.0.left" timestamp="1582145234021">
+    <state width="1897" height="275" key="GridCell.Tab.0.center/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1582145331552" />
+    <state width="1897" height="275" key="GridCell.Tab.0.left" timestamp="1582145331552">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="275" key="GridCell.Tab.0.left/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1582145234021" />
-    <state width="1897" height="275" key="GridCell.Tab.0.right" timestamp="1582145234021">
+    <state width="1897" height="275" key="GridCell.Tab.0.left/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1582145331552" />
+    <state width="1897" height="275" key="GridCell.Tab.0.right" timestamp="1582145331552">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="275" key="GridCell.Tab.0.right/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1582145234021" />
+    <state width="1897" height="275" key="GridCell.Tab.0.right/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1582145331552" />
     <state width="1897" height="340" key="GridCell.Tab.1.bottom" timestamp="1582144627759">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
